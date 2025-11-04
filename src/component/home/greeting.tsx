@@ -1,4 +1,4 @@
-import React, { JSX } from "react";
+import type { JSX } from "react";
 
 export const Box = (): JSX.Element => {
   return (
